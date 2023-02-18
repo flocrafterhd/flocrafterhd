@@ -2,8 +2,8 @@
 <a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Ich bin NoPro200!</h1>
-<h3 align="center">Ich bin Content Creator und Developer</h3>
+<h1 align="center">Hallo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Ich bin FloCrafterHD!</h1>
+<h3 align="center">Ich bin ein Anfänger Developer!</h3>
 
 <br>
 
@@ -28,9 +28,8 @@
 
 <br/>
 
-## Schau gerne auf meinen Kanälen vorbei:
+## Schau gerne vorbei:
 <p align="left">
 
 <a href = "https://www.youtube.com/@FloCrafterHD"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href = "https://www.instagram.com/flocrafterhdyt/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://linktr.ee/flocrafterhd"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
