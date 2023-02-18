@@ -18,7 +18,7 @@
 
 <br>
 
-## 🔎〣 Über Mich
+## 🔎 Über Mich
 
 - Mein Discord Server: **[FloUnity](https://dsc.gg/flounity)**
 
