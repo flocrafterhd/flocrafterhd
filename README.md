@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hallo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Ich bin FloCrafterHD!</h1>
-<h3 align="center">Ich bin ein Anfänger Developer!</h3>
+<h3 align="center">Ich bin ein Starter Developer!</h3>
 
 <br>
 
